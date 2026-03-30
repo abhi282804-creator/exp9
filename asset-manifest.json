@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abhi282804-creator/ecommerceui.git/static/css/main.e6c13ad2.css",
-    "main.js": "/abhi282804-creator/ecommerceui.git/static/js/main.371aac23.js",
-    "static/js/453.f3d18a01.chunk.js": "/abhi282804-creator/ecommerceui.git/static/js/453.f3d18a01.chunk.js",
-    "index.html": "/abhi282804-creator/ecommerceui.git/index.html",
-    "main.e6c13ad2.css.map": "/abhi282804-creator/ecommerceui.git/static/css/main.e6c13ad2.css.map",
-    "main.371aac23.js.map": "/abhi282804-creator/ecommerceui.git/static/js/main.371aac23.js.map",
-    "453.f3d18a01.chunk.js.map": "/abhi282804-creator/ecommerceui.git/static/js/453.f3d18a01.chunk.js.map"
+    "main.css": "/abhi282804-creator/exp9.git/static/css/main.e6c13ad2.css",
+    "main.js": "/abhi282804-creator/exp9.git/static/js/main.4d94145e.js",
+    "static/js/453.f3d18a01.chunk.js": "/abhi282804-creator/exp9.git/static/js/453.f3d18a01.chunk.js",
+    "index.html": "/abhi282804-creator/exp9.git/index.html",
+    "main.e6c13ad2.css.map": "/abhi282804-creator/exp9.git/static/css/main.e6c13ad2.css.map",
+    "main.4d94145e.js.map": "/abhi282804-creator/exp9.git/static/js/main.4d94145e.js.map",
+    "453.f3d18a01.chunk.js.map": "/abhi282804-creator/exp9.git/static/js/453.f3d18a01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.371aac23.js"
+    "static/js/main.4d94145e.js"
   ]
 }
